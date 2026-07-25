@@ -56,3 +56,7 @@ The application provides a simple explanation of the uploaded medical report alo
 ## 👩‍💻 Author
 
 Sweta Raj
+
+## 🌐 Live Demo
+
+https://crisp-day6-industry-solution-hxrb3ayqvwymgnh76cr8n3.streamlit.app/
